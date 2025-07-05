@@ -83,5 +83,5 @@ Open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ## 👨‍💻 Authors
 
-* **Malreddy Vijay Reddy** – [LinkedIn](https://www.linkedin.com/in/vijay_reddy-vr1902)
+* **Malreddy Vijay Reddy** 
 
