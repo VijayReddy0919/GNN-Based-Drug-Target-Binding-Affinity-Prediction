@@ -1,0 +1,8 @@
+torch==2.3.0 
+torch-geometric==2.3.0
+rdkit==2023.9.5 
+pandas==2.0.0 
+scikit-learn==1.2.2 
+flask==2.3.2 
+flask-cors==4.0.0 
+pillow==10.0.0
